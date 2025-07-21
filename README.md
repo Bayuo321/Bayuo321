@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hi there 👋 I'm Daniel
 
-<!--
-**Bayuo321/Bayuo321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a Computer Science and Engineering graduate currently pursuing my **Master’s degree** in the same field.
 
-Here are some ideas to get you started:
+🚀 I'm passionate about:
+- Artificial Intelligence and Software Engineering
+- Open-source projects and community collaboration
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Skills:
+- **Languages:** Python, Java, C, C++, JavaScript, Assembly, Prolog, SQL
+- **Web:** HTML, CSS
+- **Tools:** Git, VS Code, Linux, Figma, Docker
+
+🧠 Currently learning:
+- SCSS and TypeScript – practicing through open-source contributions [Lichess](https://github.com/lichess-org/lila/pulls/Bayuo321)
+
+📫 Connect with me:
+- [LinkedIn](https://www.linkedin.com/in/daniel-barrocas-932285307/)
+- Email: dafibar04@hotmail.com

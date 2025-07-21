@@ -14,6 +14,5 @@
 🧠 Currently learning:
 - SCSS and TypeScript – practicing through open-source contributions [Lichess](https://github.com/lichess-org/lila/pulls/Bayuo321)
 
-📫 Connect with me:
-- [LinkedIn](https://www.linkedin.com/in/daniel-barrocas-932285307/)
-- Email: dafibar04@hotmail.com
+📫[LinkedIn](https://www.linkedin.com/in/daniel-barrocas-932285307/)
+

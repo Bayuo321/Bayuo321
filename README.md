@@ -11,8 +11,5 @@
 - **Web:** HTML, CSS
 - **Tools:** Git, VS Code, Linux, Figma, Docker
 
-🧠 Currently learning:
-- SCSS and TypeScript, practicing through open-source contributions - [Lichess](https://github.com/lichess-org/lila/pulls/Bayuo321)
-
 📫[LinkedIn](https://www.linkedin.com/in/daniel-barrocas-932285307/)
 
